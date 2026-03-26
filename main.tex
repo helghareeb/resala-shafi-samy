@@ -1,0 +1,118 @@
+\documentclass[12pt, a4paper]{book}
+
+% الحزم الأساسية
+\usepackage{polyglossia}
+\setmainlanguage[numerals=maghrib]{arabic}
+\setotherlanguage{english}
+
+% إعدادات الخطوط (يفضل خط أميري)
+\newfontfamily\arabicfont[Script=Arabic]{Amiri}
+\newfontfamily\quranfont[Script=Arabic]{Scheherazade} % لخط القرآن إن وجد
+
+% حزم التنسيق
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{tocloft}
+\usepackage{amsmath}
+\usepackage{setspace} % لضبط المسافات بين السطور
+\usepackage{parskip}  % لضبط المسافات بين الفقرات
+\usepackage{imakeidx} % حزمة الفهارس العلمية
+
+% إعدادات الفهارس
+\makeindex[name=quran, title=فهرس الآيات القرآنية, columns=2]
+\makeindex[name=hadith, title=فهرس الأحاديث النبوية, columns=1]
+\makeindex[name=general, title=فهرس الأعلام, columns=2]
+
+% أوامر مخصصة للتحقيق والتنسيق العلمي
+\newcommand{\matn}[1]{{\arabicfont\bfseries «#1»}} % لتمييز متن الرسالة
+\newcommand{\aya}[2]{﴿#1﴾\footnote{سورة #2.}\index[quran]{#2}} % للآيات
+\newcommand{\hadith}[2]{«#1»\footnote{#2}\index[hadith]{#1}} % للأحاديث
+\newcommand{\tarjama}[2]{#1\footnote{ترجمة: #2}\index[general]{#1}} % للأعلام
+
+\usepackage{hyperref}
+
+% إخفاء الأرقام التلقائية من العناوين (الفصول والأقسام) والاعتماد على المحتوى فقط
+\setcounter{secnumdepth}{-1}
+% تحديد مستوى العناوين التي تظهر في الفهرس
+\setcounter{tocdepth}{2}
+
+% إعدادات الروابط
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    pdftitle={شرح كتاب الرسالة للإمام الشافعي},
+    pdfpagemode=FullScreen,
+}
+
+\begin{document}
+
+% تفعيل مسافة ونصف بين السطور لراحة العين في القراءة
+\onehalfspacing
+
+% صفحة الغلاف
+\begin{titlepage}
+    \centering
+    \vspace*{5cm}
+    {\Huge \textbf{شرح كتاب الرسالة للإمام الشافعي}}\\[2cm]
+    {\LARGE \textbf{لفضيلة الشيخ: سامي}}\\[3cm]
+    {\Large \textit{تفريغ وتنقيح وتنسيق}}\\[1cm]
+    {\large فريق العمل}\\[2cm]
+    \vfill
+    {\large \today}
+\end{titlepage}
+
+\frontmatter
+\tableofcontents
+
+\include{editor_note}
+
+\mainmatter
+
+% تضمين الدروس تباعاً
+\include{lessons/lesson01}
+\include{lessons/lesson02}
+\include{lessons/lesson03}
+\include{lessons/lesson04}
+\include{lessons/lesson05}
+\include{lessons/lesson06}
+\include{lessons/lesson07}
+\include{lessons/lesson08}
+\include{lessons/lesson09}
+\include{lessons/lesson10}
+\include{lessons/lesson11}
+\include{lessons/lesson12}
+\include{lessons/lesson13}
+\include{lessons/lesson14}
+\include{lessons/lesson15}
+\include{lessons/lesson16}
+\include{lessons/lesson17}
+\include{lessons/lesson18}
+\include{lessons/lesson19}
+\include{lessons/lesson20}
+\include{lessons/lesson21}
+\include{lessons/lesson22}
+\include{lessons/lesson23}
+\include{lessons/lesson24}
+\include{lessons/lesson25}
+
+\appendix
+\include{appendix}
+
+\backmatter
+
+\renewcommand{\bibname}{قائمة المصادر والمراجع}
+\begin{thebibliography}{99}
+    \bibitem{risala_shakir} الشافعي، محمد بن إدريس. \textit{الرسالة}. تحقيق الشيخ أحمد محمد شاكر. القاهرة: مطبعة مصطفى البابي الحلبي، 1940م.
+    \bibitem{umm_rifat} الشافعي، محمد بن إدريس. \textit{الأم}. تحقيق د. رفعت فوزي عبد المطلب. المنصورة: دار الوفاء، 2001م.
+    \bibitem{tabari} الطبري، محمد بن جرير. \textit{جامع البيان عن تأويل آي القرآن}. تحقيق محمود شاكر.
+    \bibitem{khattabi} الخطابي، حمد بن محمد. \textit{معالم السنن}. مطبعة محمد علي صبيح، 1932م.
+\end{thebibliography}
+
+\printindex[quran]
+\printindex[hadith]
+\printindex[general]
+
+\end{document}

@@ -1,0 +1,229 @@
+\xpg@aux {numerals=maghrib}{arabic}
+\contentsline {chapter}{كلمة المحرر}{ix}{chapter*.1}%
+\contentsline {chapter}{مقدمة في شرح الرسالة وخطبة الإمام الشافعي}{1}{chapter*.2}%
+\contentsline {section}{مقدمة الدرس وخطبة الحاجة}{1}{section*.3}%
+\contentsline {section}{أهمية كتاب الرسالة وتحقيقاته}{1}{section*.4}%
+\contentsline {section}{قراءة إسناد الكتاب ونسب الإمام الشافعي}{2}{section*.5}%
+\contentsline {section}{شرح خطبة الإمام الشافعي في الرسالة}{2}{section*.6}%
+\contentsline {subsection}{الفرق بين الحمد والشكر}{2}{subsection*.7}%
+\contentsline {subsection}{فقه القلوب عند الشافعي}{2}{subsection*.8}%
+\contentsline {section}{حال الخلق عند بعثة النبي صلى الله عليه وسلم}{3}{section*.9}%
+\contentsline {section}{خصائص النبي محمد صلى الله عليه وسلم ومقاصد رسالته}{3}{section*.10}%
+\contentsline {subsection}{الاعتزاز باللغة العربية ومقاصده}{3}{subsection*.11}%
+\contentsline {section}{آداب طالب العلم ومسلك النجاة}{3}{section*.12}%
+\contentsline {chapter}{القرآن كتاب هداية والاعتصام بالسنة}{5}{chapter*.13}%
+\contentsline {section}{القرآن كتاب هداية}{5}{section*.14}%
+\contentsline {section}{الوصية بالتمسك بالسنة}{5}{section*.15}%
+\contentsline {chapter}{باب كيف البيان وأقسامه}{7}{chapter*.16}%
+\contentsline {section}{مقدمة الدرس وتعريف البيان والمجمل}{7}{section*.17}%
+\contentsline {section}{وجوه البيان عند الإمام الشافعي}{7}{section*.18}%
+\contentsline {subsection}{الاجتهاد في طلب الحق وإعمال النصوص}{8}{subsection*.19}%
+\contentsline {section}{تفصيل أبواب البيان}{8}{section*.20}%
+\contentsline {subsection}{البيان الأول: ما أبانه الله لخلقه نصاً في كتابه}{8}{subsection*.21}%
+\contentsline {subsection}{البيان الثاني: ما نص القرآن على فرضه وبينت السنة بعض أحكامه}{8}{subsection*.22}%
+\contentsline {subsection}{البيان الثالث: ما أحكم الله فرضه مجملاً وبينت السنة كيفيته}{9}{subsection*.23}%
+\contentsline {subsection}{البيان الرابع: ما سنه النبي صلى الله عليه وسلم استقلالاً}{9}{subsection*.24}%
+\contentsline {chapter}{البيان الخامس: الاجتهاد والقياس وشروط المفتي}{11}{chapter*.25}%
+\contentsline {section}{مقدمة في البيان الخامس (الاجتهاد)}{11}{section*.26}%
+\contentsline {section}{أمثلة تطبيقية على الاجتهاد والقياس}{11}{section*.27}%
+\contentsline {subsection}{الاجتهاد في تحديد جهة القبلة}{11}{subsection*.28}%
+\contentsline {subsection}{الاجتهاد في معرفة العدل}{11}{subsection*.29}%
+\contentsline {subsection}{الاجتهاد في جزاء الصيد (المثلية)}{12}{subsection*.30}%
+\contentsline {section}{مصادر التشريع وأنواع القياس عند الشافعي}{12}{section*.31}%
+\contentsline {section}{بين الإجماع والاختلاف}{12}{section*.32}%
+\contentsline {section}{شروط المفتي والمجتهد}{13}{section*.33}%
+\contentsline {subsection}{العلم بلغة العرب}{13}{subsection*.34}%
+\contentsline {subsection}{العلم بالناسخ والمنسوخ ودلالات الأوامر}{13}{subsection*.35}%
+\contentsline {section}{التحذير من القول بلا علم ومن التقليد الأعمى}{13}{section*.36}%
+\contentsline {chapter}{إحاطة الأمة بلغة العرب وسنة النبي}{15}{chapter*.37}%
+\contentsline {section}{سعة لغة العرب وحفظ السنة}{15}{section*.38}%
+\contentsline {section}{عصمة الأمة والاجتهاد الجماعي}{15}{section*.39}%
+\contentsline {section}{كيف يحيط طالب العلم بالسنة؟}{15}{section*.40}%
+\contentsline {section}{وصية للعوام بالرجوع للعلماء والصدق مع الله}{16}{section*.41}%
+\contentsline {section}{خاتمة ودعاء}{16}{section*.42}%
+\contentsline {chapter}{القول بعلم وذم التقليد وعربية القرآن}{17}{chapter*.43}%
+\contentsline {section}{وجوب القول بعلم وذم التقليد الأعمى}{17}{section*.44}%
+\contentsline {section}{مكانة لغة العرب وسعتها}{17}{section*.45}%
+\contentsline {section}{عربية القرآن الخالصة والرد على الشبهات}{17}{section*.46}%
+\contentsline {section}{النصيحة للمسلمين ووجوه البيان في لغة العرب}{18}{section*.47}%
+\contentsline {section}{خطورة التكلف والقول بغير علم}{18}{section*.48}%
+\contentsline {chapter}{بيان ما نزل من الكتاب عاماً وأقسامه}{19}{chapter*.49}%
+\contentsline {section}{مقدمة الدرس وتعريف العام والخاص}{19}{section*.50}%
+\contentsline {section}{أقسام العام في القرآن الكريم}{19}{section*.51}%
+\contentsline {subsection}{القسم الأول: العام الذي يراد به العموم ولا يدخله التخصيص}{19}{subsection*.52}%
+\contentsline {subsection}{القسم الثاني: العام الذي يجمع بين العموم والخصوص}{19}{subsection*.53}%
+\contentsline {subsection}{القسم الثالث: العام الظاهر الذي يراد به الخصوص}{20}{subsection*.54}%
+\contentsline {section}{أثر السياق والتركيب والإضافة في بيان المعنى}{20}{section*.55}%
+\contentsline {chapter}{تخصيص السنة لعموم القرآن ووجوب طاعة الرسول}{21}{chapter*.56}%
+\contentsline {section}{مقدمة في تخصيص السنة للقرآن}{21}{section*.57}%
+\contentsline {section}{الأمثلة التطبيقية على تخصيص السنة للقرآن}{21}{section*.58}%
+\contentsline {subsection}{المثال الأول: آيات المواريث والوصية}{21}{subsection*.59}%
+\contentsline {subsection}{المثال الثاني: آية الوضوء وغسل القدمين}{21}{subsection*.60}%
+\contentsline {subsection}{المثال الثالث: آية حد السرقة}{22}{subsection*.61}%
+\contentsline {subsection}{المثال الرابع: آية حد الزنا}{22}{subsection*.62}%
+\contentsline {subsection}{المثال الخامس: سهم ذوي القربى في الغنائم}{22}{subsection*.63}%
+\contentsline {subsection}{المثال السادس: استثناء السَّلَب من عموم الغنائم}{22}{subsection*.64}%
+\contentsline {section}{فرضية طاعة رسول الله صلى الله عليه وسلم}{22}{section*.65}%
+\contentsline {subsection}{اقتران الإيمان بالله بالإيمان بالرسول}{22}{subsection*.66}%
+\contentsline {subsection}{السنة هي «الحكمة» في القرآن}{23}{subsection*.67}%
+\contentsline {subsection}{الرد على منكري السنة (القرآنيين)}{23}{subsection*.68}%
+\contentsline {chapter}{فرض طاعة رسول الله ومكانة السنة من القرآن}{25}{chapter*.69}%
+\contentsline {section}{طاعة الرسول صلى الله عليه وسلم مطلقة ومستقلة}{25}{section*.70}%
+\contentsline {section}{طاعة أولي الأمر مقيدة ومستثناة}{25}{section*.71}%
+\contentsline {section}{الرد عند التنازع وحجية القياس}{25}{section*.72}%
+\contentsline {section}{وجوه السنة مع القرآن الكريم}{26}{section*.73}%
+\contentsline {section}{الرد على القرآنيين منكري السنة}{26}{section*.74}%
+\contentsline {section}{فتاوى فقهية منثورة في ختام الدرس}{26}{section*.75}%
+\contentsline {chapter}{مبحث الناسخ والمنسوخ ومكانة السنة}{29}{chapter*.76}%
+\contentsline {section}{مقدمة في تعريف النسخ وحكمته}{29}{section*.77}%
+\contentsline {section}{مذهب الشافعي في النسخ (السنة لا تنسخ القرآن)}{29}{section*.78}%
+\contentsline {section}{علاقة السنة بالقرآن والرد على المتعصبين}{30}{section*.79}%
+\contentsline {section}{هل النسخ يكون إلى غير بدل؟}{30}{section*.80}%
+\contentsline {section}{أمثلة تطبيقية على الناسخ والمنسوخ}{30}{section*.81}%
+\contentsline {subsection}{نسخ قيام الليل بالصلوات الخمس}{30}{subsection*.82}%
+\contentsline {subsection}{نسخ المصابرة في القتال}{30}{subsection*.83}%
+\contentsline {subsection}{نسخ حبس الزانيات}{30}{subsection*.84}%
+\contentsline {section}{أحكام فقهية مستنبطة (الحائض، المغمى عليه، السكران)}{31}{section*.85}%
+\contentsline {subsection}{قضاء الصلاة للمرأة الحائض}{31}{subsection*.86}%
+\contentsline {subsection}{صلاة المغمى عليه والسكران}{31}{subsection*.87}%
+\contentsline {section}{فقه إقامة الحدود}{31}{section*.88}%
+\contentsline {chapter}{الناسخ والمنسوخ بدلالة السنة والإجماع وأحكام اللعان}{33}{chapter*.89}%
+\contentsline {section}{الناسخ والمنسوخ الذي تدل عليه السنة والإجماع}{33}{section*.90}%
+\contentsline {subsection}{نسخ الوصية للوارث بآيات المواريث}{33}{subsection*.91}%
+\contentsline {subsection}{حكم الوصية لغير الوارث ولغير الأقارب}{33}{subsection*.92}%
+\contentsline {section}{الفرائض التي أنزلها الله نصاً (القذف واللعان)}{34}{section*.93}%
+\contentsline {subsection}{أحكام اللعان وما زادته السنة على القرآن}{34}{subsection*.94}%
+\contentsline {section}{الحكم بالظاهر لا بالبواطن والسرائر}{34}{section*.95}%
+\contentsline {chapter}{الفرائض المنصوصة وتفصيل السنة لمجمل القرآن}{35}{chapter*.96}%
+\contentsline {section}{الفرائض المنصوصة التي سن رسول الله معها}{35}{section*.97}%
+\contentsline {subsection}{أحكام الوضوء والغسل (التفريق بين الفرض والسنة)}{35}{subsection*.98}%
+\contentsline {subsection}{موانع الإرث (تخصيص السنة لعموم المواريث)}{35}{subsection*.99}%
+\contentsline {subsection}{تخصيص البيوع المحرمة من عموم (أحل الله البيع)}{36}{subsection*.100}%
+\contentsline {section}{بيان السنة لمجمل الفرائض}{36}{section*.101}%
+\contentsline {subsection}{تفصيل أحكام الصلاة ومواقيتها}{36}{subsection*.102}%
+\contentsline {subsection}{صلاة الخسوف وصلاة الخوف}{36}{subsection*.103}%
+\contentsline {section}{خاتمة: مكانة السنة والرد على منكريها}{37}{section*.104}%
+\contentsline {chapter}{جمل الفرائض: الزكاة والحج وأحكام النساء والطعام}{39}{chapter*.105}%
+\contentsline {section}{جمل الفرائض في الزكاة وتفصيل السنة لها}{39}{section*.106}%
+\contentsline {subsection}{زكاة الماشية}{39}{subsection*.107}%
+\contentsline {subsection}{زكاة الزروع والثمار}{39}{subsection*.108}%
+\contentsline {subsection}{زكاة النقدين والركاز}{39}{subsection*.109}%
+\contentsline {section}{جمل الفرائض في الحج ومناسك السنة}{40}{section*.110}%
+\contentsline {section}{أحكام العدد والمحرمات من النساء}{40}{section*.111}%
+\contentsline {subsection}{عدة المتوفى عنها زوجها الحامل}{40}{subsection*.112}%
+\contentsline {subsection}{المحرمات من النساء (الجمع بين المرأة وعمتها)}{40}{subsection*.113}%
+\contentsline {subsection}{حتى تنكح زوجاً غيره (اشتراط الوطء)}{40}{subsection*.114}%
+\contentsline {section}{ما أحل وحرم من الطعام}{41}{section*.115}%
+\contentsline {section}{ما تجتنبه المعتدة للوفاة}{41}{section*.116}%
+\contentsline {section}{خاتمة: العذر بالجهل لمن خالف السنة من العلماء}{41}{section*.117}%
+\contentsline {chapter}{العلل في الأحاديث واختلاف الروايات}{43}{chapter*.118}%
+\contentsline {section}{مقدمة في اختلاف الأحاديث وموافقة السنة للقرآن}{43}{section*.119}%
+\contentsline {section}{الناسخ والمنسوخ في السنة}{43}{section*.120}%
+\contentsline {section}{أسباب الاختلاف الظاهري بين الأحاديث}{43}{section*.121}%
+\contentsline {subsection}{العام المراد به الخصوص}{44}{subsection*.122}%
+\contentsline {subsection}{سماع الجواب دون السؤال}{44}{subsection*.123}%
+\contentsline {subsection}{اختلاف الحالين}{44}{subsection*.124}%
+\contentsline {subsection}{حفظ المنسوخ دون الناسخ}{44}{subsection*.125}%
+\contentsline {section}{وجوب التسليم للسنة وترك الاعتراض}{44}{section*.126}%
+\contentsline {section}{طرق دفع التعارض (الترجيح)}{44}{section*.127}%
+\contentsline {chapter}{السنن الناسخة والمنسوخة وتخصيص الأحكام}{47}{chapter*.128}%
+\contentsline {section}{نسخ النهي عن ادخار لحوم الأضاحي}{47}{section*.129}%
+\contentsline {section}{صلاة الخوف ونسخ تأخير الصلاة عن وقتها}{47}{section*.130}%
+\contentsline {section}{نسخ الحبس في الزنا وتفصيل إقامة الحدود}{48}{section*.131}%
+\contentsline {subsection}{تنصيف الحد للإماء}{48}{subsection*.132}%
+\contentsline {section}{دقة الشريعة البالغة في الدماء والأعراض (قصة العسيف)}{48}{section*.133}%
+\contentsline {subsection}{خضوع الذميين لقانون العقوبات الإسلامي}{48}{subsection*.134}%
+\contentsline {section}{صلاة المأموم خلف الإمام القاعد (بين النسخ والإحكام)}{49}{section*.135}%
+\contentsline {chapter}{أوجه اختلاف الأحاديث (الجمع والترجيح)}{51}{chapter*.136}%
+\contentsline {section}{اختلاف التنوع (صيغ التشهد والقراءات)}{51}{section*.137}%
+\contentsline {subsection}{القرآن أُنزل على سبعة أحرف}{51}{subsection*.138}%
+\contentsline {section}{الجمع والترجيح في أحاديث الربا}{51}{section*.139}%
+\contentsline {section}{اختلاف الأحاديث في وقت صلاة الفجر}{52}{section*.140}%
+\contentsline {section}{اختلاف الحال في النهي عن استقبال القبلة للغائط والبول}{52}{section*.141}%
+\contentsline {section}{خاتمة في أدب الاختلاف}{52}{section*.142}%
+\contentsline {chapter}{أوجه الاختلاف بين الأحاديث: الجمع والتخصيص}{55}{chapter*.143}%
+\contentsline {section}{حكم قتل النساء والصبيان في البيات (الغارات الليلية)}{55}{section*.144}%
+\contentsline {subsection}{دلالة من القرآن على سقوط الدية والكفارة في دار الكفر}{55}{subsection*.145}%
+\contentsline {section}{غسل الجمعة بين الوجوب والاستحباب}{55}{section*.146}%
+\contentsline {section}{الخطبة على خطبة الأخ والبيع على بيعه}{56}{section*.147}%
+\contentsline {subsection}{لا يبيع الرجل على بيع أخيه}{56}{subsection*.148}%
+\contentsline {section}{الصلاة في أوقات النهي (الفرائض وذوات الأسباب)}{56}{section*.149}%
+\contentsline {section}{وجوب التسليم للسنة إذا ثبتت}{57}{section*.150}%
+\contentsline {chapter}{الجمع بين الأحاديث، ودلالة النهي، وأقسام العلم}{59}{chapter*.151}%
+\contentsline {section}{الجمع بين الأحاديث (المزابنة والعرايا)}{59}{section*.152}%
+\contentsline {section}{الجمع بين بيع المجهول وإباحة السَّلَم}{59}{section*.153}%
+\contentsline {section}{صفة نهي الله ورسوله (بين التحريم والكراهة)}{60}{section*.154}%
+\contentsline {subsection}{النهي الذي يقتضي التحريم والفساد}{60}{subsection*.155}%
+\contentsline {subsection}{النهي الذي يقتضي الكراهة والتنزيه (الإرشاد)}{60}{subsection*.156}%
+\contentsline {section}{أقسام العلم الشرعي}{60}{section*.157}%
+\contentsline {subsection}{علم العامة (فرض العين)}{61}{subsection*.158}%
+\contentsline {subsection}{علم الخاصة (فرض الكفاية)}{61}{subsection*.159}%
+\contentsline {chapter}{حجية خبر الآحاد وشروط الحديث الصحيح}{63}{chapter*.160}%
+\contentsline {section}{مقدمة في خبر الخاصة (خبر الآحاد)}{63}{section*.161}%
+\contentsline {section}{شروط الحديث الصحيح عند الإمام الشافعي}{63}{section*.162}%
+\contentsline {section}{الفرق بين الشهادة والرواية}{64}{section*.163}%
+\contentsline {subsection}{لماذا يُحتاط للرواية أكثر من الشهادة؟}{64}{subsection*.164}%
+\contentsline {section}{حكم رواية المدلّس وتعديل الرواة}{64}{section*.165}%
+\contentsline {section}{التحذير من الكذب على رسول الله ﷺ}{64}{section*.166}%
+\contentsline {chapter}{حجية خبر الآحاد والأدلة على قبوله}{65}{chapter*.167}%
+\contentsline {section}{نضارة وجه مبلغ السنة ودلالتها على الآحاد}{65}{section*.168}%
+\contentsline {section}{لزوم جماعة المسلمين وحجية الإجماع}{65}{section*.169}%
+\contentsline {section}{وجوب التسليم للسنة (حديث الأريكة)}{65}{section*.170}%
+\contentsline {section}{أمثلة وتطبيقات من العهد النبوي لقبول خبر الواحد}{66}{section*.171}%
+\contentsline {subsection}{خبر أم سلمة في القبلة للصائم}{66}{subsection*.172}%
+\contentsline {subsection}{تحول أهل قباء عن قبلتهم بخبر واحد}{66}{subsection*.173}%
+\contentsline {subsection}{إراقة أبي طلحة للخمر بخبر المخبر}{66}{subsection*.174}%
+\contentsline {subsection}{إرسال الآحاد لتبليغ الأحكام والحدود والعقائد}{66}{subsection*.175}%
+\contentsline {section}{الفرق بين القاضي والشاهد في الأخبار}{67}{section*.176}%
+\contentsline {chapter}{قبول الصحابة لخبر الآحاد وشروط الحديث المرسل}{69}{chapter*.177}%
+\contentsline {section}{رجوع الصحابة وخلفائهم لخبر الآحاد}{69}{section*.178}%
+\contentsline {subsection}{رجوع عمر بن الخطاب في دية الأصابع والميراث من الدية}{69}{subsection*.179}%
+\contentsline {subsection}{رجوعه في دية الجنين وفي أخذ الجزية من المجوس}{69}{subsection*.180}%
+\contentsline {section}{توجيه طلب عمر لخبر ثانٍ في بعض الأحاديث}{70}{section*.181}%
+\contentsline {section}{أمثلة أخرى لرجوع الصحابة والتابعين للآحاد}{70}{section*.182}%
+\contentsline {section}{شروط العمل بالحديث المرسل عند الشافعي}{70}{section*.183}%
+\contentsline {section}{خاتمة في خطورة رد السنن}{71}{section*.184}%
+\contentsline {chapter}{حجية الإجماع والقياس وإبطال الاستحسان}{73}{chapter*.185}%
+\contentsline {section}{مقدمة في حجية الإجماع}{73}{section*.186}%
+\contentsline {section}{الأدلة على حجية الإجماع ولزوم الجماعة}{73}{section*.187}%
+\contentsline {subsection}{المعنى الصحيح للزوم الجماعة}{73}{subsection*.188}%
+\contentsline {section}{الاجتهاد والقياس: اسمان لمعنى واحد}{74}{section*.189}%
+\contentsline {subsection}{التكليف بالظاهر دون الباطن}{74}{subsection*.190}%
+\contentsline {subsection}{أجر المجتهد}{74}{subsection*.191}%
+\contentsline {section}{إبطال الاستحسان}{74}{section*.192}%
+\contentsline {chapter}{شروط المجتهد والمفتي وأنواع القياس}{75}{chapter*.193}%
+\contentsline {section}{شروط الاجتهاد والفتوى}{75}{section*.194}%
+\contentsline {subsection}{الإنصاف وأدب المجتهد في الخلاف}{75}{subsection*.195}%
+\contentsline {section}{القياس ومراتبه}{75}{section*.196}%
+\contentsline {subsection}{أقوى القياس (قياس الأولى)}{76}{subsection*.197}%
+\contentsline {section}{أمثلة فقهية دقيقة على القياس (العلة والشبه)}{76}{section*.198}%
+\contentsline {subsection}{القياس في وجوب نفقة الأب العاجز}{76}{subsection*.199}%
+\contentsline {subsection}{القياس في قاعدة الخراج بالضمان}{76}{subsection*.200}%
+\contentsline {subsection}{القياس في الربويات}{77}{subsection*.201}%
+\contentsline {subsection}{اشتراك العاقلة في دية الخطأ وما دونها}{77}{subsection*.202}%
+\contentsline {chapter}{حدود الإجماع والقياس، وأدب المناظرة والاختلاف}{79}{chapter*.203}%
+\contentsline {section}{التحذير من ادعاء الإجماع في مسائل الخلاف}{79}{section*.204}%
+\contentsline {section}{قواعد في ضمان العاقلة لجناية الخطأ}{79}{section*.205}%
+\contentsline {section}{مناظرات تطبيقية في القياس}{79}{section*.206}%
+\contentsline {subsection}{دية العبد المقتول خطأً}{79}{subsection*.207}%
+\contentsline {subsection}{جواز استقراض الحيوان ورده بأحسن منه}{80}{subsection*.208}%
+\contentsline {section}{الرخص والاستثناءات لا يُقاس عليها}{80}{section*.209}%
+\contentsline {section}{أحكام تعبدية وأخرى معقولة المعنى}{80}{section*.210}%
+\contentsline {subsection}{دية الجنين (الغرة)}{80}{subsection*.211}%
+\contentsline {subsection}{قاعدة الخراج بالضمان وحديث المصراة}{80}{subsection*.212}%
+\contentsline {section}{أنواع الاختلاف (المحرم والسائغ)}{81}{section*.213}%
+\contentsline {section}{معنى القرء في اعتداد المطلقة}{81}{section*.214}%
+\contentsline {chapter}{عدة الحامل، وأحكام الإيلاء، وميراث الجد (ختام الكتاب)}{83}{chapter*.215}%
+\contentsline {section}{عدة الحامل المتوفى عنها زوجها}{83}{section*.216}%
+\contentsline {section}{تقديم السنة على أقوال الرجال}{83}{section*.217}%
+\contentsline {section}{أحكام الإيلاء (اليمين على ترك الجماع)}{84}{section*.218}%
+\contentsline {section}{مسائل في المواريث (رد الفضل، وميراث الجد)}{84}{section*.219}%
+\contentsline {subsection}{رد فضل المواريث}{84}{subsection*.220}%
+\contentsline {subsection}{ميراث الجد مع الإخوة}{84}{subsection*.221}%
+\contentsline {section}{ختام كتاب الرسالة}{84}{section*.222}%
+\contentsline {chapter}{الملاحق: الفوائد المستخلصة من الدروس}{87}{appendix*.223}%
+\contentsline {section}{الفوائد المنهجية والتربوية}{87}{section*.224}%
+\contentsline {section}{قواعد المناظرة والرد على المخالف}{89}{section*.225}%
+\contentsline {section}{الفوائد العقدية والإيمانية}{91}{section*.226}%
+\contentsline {section}{الفوائد التفسيرية واللغوية}{92}{section*.227}%
+\contentsline {section}{الفوائد الأصولية والحديثية}{94}{section*.228}%
